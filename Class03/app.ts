@@ -1,2 +1,2 @@
-let username: string= "Imran Ahmed";
-console.log(username);
+let userName: string= "Imran Ahmed";
+console.log(userName);
