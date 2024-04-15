@@ -11,4 +11,4 @@ console.log(dressColor != dupataColorOne);
 console.log(dressColor != dupataColorTwo);
 let myFirstName = "Imran";
 let myLastName = "Ahmed";
-console.log(myFirstName + " wolf " + myLastName);
+console.log(myFirstName + " wolf" + myLastName);
